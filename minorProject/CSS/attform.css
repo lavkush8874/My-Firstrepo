@@ -1,0 +1,61 @@
+
+.container{
+    height: 700px;
+    width: 100%;
+}
+.form{
+
+font-size:20px;
+height: 700px;
+width: 100%;
+background-color: rgba(5, 163, 34, 0.2);
+
+box-shadow: 0,0,0,0=2.5;
+}
+.container2{
+    margin-left:500px ;
+    padding-top: 100px;
+}
+.tf{
+
+    border-radius:5px;
+}
+
+.btn{
+    height:30px;
+    width:15%;
+    border-radius:10px;
+    background-color:rgb(15, 214, 15);
+    border-color: red;
+    margin-left: 50px;
+}
+.btn:hover{
+    opacity: 7;
+    background-color:rgb(12, 215, 178);
+    
+}
+.teacher{
+margin-left: 330px;
+}
+ .btn:active{
+color: wheat;
+background-color: rgb(17, 53, 215);
+}
+.btn2{
+    height:30px;
+    width:10%;
+    border-radius:10px;
+    background-color:rgb(15, 214, 15);
+    border-color: red;
+    margin-left: 300px;
+}
+.btn2:hover{
+    opacity: 7;
+    background-color:rgb(236, 217, 46);
+    
+}
+
+ .btn2:active{
+color: wheat;
+background-color: rgb(17, 53, 215);
+}

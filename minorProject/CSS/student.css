@@ -1,0 +1,37 @@
+.dd{
+    height: 625px;
+    width:100%;
+}
+.sf{
+    height: 625px;
+    width:100%;
+background-color :rgba(184, 184, 250, 0.167);
+text-align: center;
+
+}
+.bb
+{
+    height: 50px;
+    width: 20%;
+    margin-top: 215px;
+    background-color:rgb(10, 246, 10);
+    border-radius:5px;
+    box-shadow:0 8px 16px rgba(0,0,0,3);
+    border-color:red;
+}
+.bbb{
+    text-decoration: none;
+    color: #000;
+  
+}
+
+.bb:hover{
+background-color:#07e8a8;
+}
+.bb:active{
+    color: wheat;
+    background-color: rgb(17, 53, 215);
+}
+.bb:visited{
+    color: rgb(245, 55, 55);
+}

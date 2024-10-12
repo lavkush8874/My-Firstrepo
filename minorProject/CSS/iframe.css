@@ -1,0 +1,97 @@
+.container{
+    height: 725px;
+    width:100%;
+   
+}
+.name{
+    height: 100px;
+    width: 100%;
+    background-color:rgb(230, 230, 233);
+}
+.image{
+    height:100px;
+    width: 100%;
+    padding-bottom:10px;
+}
+
+
+.d1{
+    height: 100px;
+    width:12%;
+    background-colo:white;
+    float: left;
+   
+}
+.d2{
+    height: 100px;
+    width:88%;
+    background-color: rgba(189, 184, 184, 0.2);
+  
+    float: right;
+    text-align: center;
+}
+h1{
+    color: rgb(239, 72, 197);
+}
+
+
+.div1{
+    height: 625px;
+    width:29.9%;
+    float: left;
+    display: flex;
+    
+    
+}
+.div2{
+    height: 625px;
+    width:70.1%;
+    background-color: rgb(181, 181, 214);
+    float:right;
+    border:none;
+}
+.container2{
+    height:625px; ;
+    width:100%;
+    background-color:rgb(181, 181, 214);
+    *{
+        text-align: center;
+    }
+}
+.select{
+
+    background-color :#9f85ff;
+    margin-left: 150px;
+    margin-top: 70px;
+    padding-top: 20px;
+    height: 50px;
+    width: 120px;
+    font-size: 25px;
+    border-radius:8px;
+    box-shadow:0 8px 16px rgba(0,0,0,3);
+   
+}
+.A{
+    text-decoration: none;
+}
+
+.select:hover{
+background-color:#07e8a8;
+}
+.select:active{
+    color: wheat;
+    background-color: rgb(17, 53, 215);
+}
+.select:visited{
+    color: rgb(245, 55, 55);
+}
+.if{
+    height:600px;
+    width:100%;
+}
+.h{
+    background-color: #9376fb;
+    height: 60px;
+    margin-top: 6px;
+     
+}

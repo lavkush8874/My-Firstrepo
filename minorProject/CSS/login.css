@@ -1,0 +1,82 @@
+.container{
+    height: 575px;
+    padding: 50px;
+    margin: auto;
+    border-radius: 2px solid rgb(9, 234, 9);
+    background-color: rgb(245, 243, 180);
+}
+
+
+.container form{
+    background-color:#09090931;
+    height: 400px;
+    width: 30%;
+    margin-left: 500px;
+    margin-top:80px;
+    padding: 40px;
+    border-radius:2px;
+    box-shadow:0 8px 16px rgba(0,0,0,3);
+  
+   }
+
+     .btn{
+        height: 35px;
+        background-color:rgb(6, 197, 6);
+        font-size: 20px;
+        border-radius:12px;
+        width: 150px;
+        margin-left:70px;
+        
+     }
+     .Anc{
+        text-decoration: none;
+     }
+     
+     .btnreset{
+        height: 35px;
+        background-color:rgb(249, 95, 95);
+        font-size: 20px;
+        border-radius: 10px;
+        
+     }
+     .container form .btnreset:hover{
+        opacity: 7;
+        background-color:rgb(237, 13, 13);
+        
+}
+     .container form .btn:hover{
+          opacity: 7;
+          background-color:rgb(12, 215, 178);
+          transform: scale(0.96);
+          
+ }
+
+.text{  
+    text-align: center;
+    margin: auto;
+    }
+    .container form .tf{
+        width: 85%;
+        height:25px;
+        border-radius: 7px;
+    }
+    .image{
+        height: 120px;
+        border-radius:50%;
+        margin-left: 150px;
+    }
+    
+
+    .container form i{
+        
+        color:#45434adf;
+        font-size: 20px;
+        text-align: center;
+        height: 28px;
+        width: 40px;
+    }
+   
+
+    
+
+
